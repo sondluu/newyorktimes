@@ -1,0 +1,19 @@
+{
+  "name": "newyorktimes",
+  "version": "1.0.0",
+  "description": "Homework 19 - NYT React Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sondluu/newyorktimes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sondluu/newyorktimes/issues"
+  },
+  "homepage": "https://github.com/sondluu/newyorktimes#readme"
+}
